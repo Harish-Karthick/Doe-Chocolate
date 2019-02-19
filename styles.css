@@ -214,18 +214,3 @@ footer span {
   font-size: 0.9em;
   color: #444;
 }
-
-/* ----- Media Query ----- */
-
-@media (min-width: 320px) and (max-width: 480px) {
-  .container {
-    width: 100%;
-  }
-
-  #header img,
-  #header h1 {
-    float: none;
-    display: inline;
-    font-size: 25px;
-  }
-}
